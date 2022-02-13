@@ -1,0 +1,32 @@
+body{
+  margin: 0px;
+}
+
+.red{
+  height:200px;
+  width:200px;
+  background: red;
+  position: absolute;
+  top:400px;
+  left:400px;
+}
+
+.blue{
+  height:200px;
+  width:200px;
+  background: blue;
+  position: absolute;
+  left:200px;
+  top:200px;
+  position: fixed;
+
+}
+
+
+.yellow{
+  height:200px;
+  width:200px;
+  background: yellow;
+
+
+}
